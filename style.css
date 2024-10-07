@@ -1,0 +1,77 @@
+*{
+    font-size: large;
+    background-color:bisque;
+   
+}
+#main {
+    text-align: center; /* Center text horizontally */
+    
+}
+#mainh1{
+    background-color: grey;
+    color: aliceblue;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 50px;
+    padding: 10px; /* Optional: Add some padding for better appearance */
+    margin: auto; /* Center the inline-block element */
+}
+#rock{
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    padding-left: 200px;
+    
+}
+#paper{
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    
+}
+#Scissors{
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+  
+}
+.score{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.you{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding-right: 200px;
+}
+.computer{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.Emojis{
+    font-size: 100px;
+}
+.point{
+   font-size: 50px;
+}
+
+#msg-container {
+    text-align: center; /* Center text horizontally */
+    
+}
+#msg {
+    background-color: grey;
+    color: aliceblue;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 50px;
+    padding: 10px; /* Optional: Add some padding for better appearance */
+    margin: auto; /* Center the inline-block element */
+}
